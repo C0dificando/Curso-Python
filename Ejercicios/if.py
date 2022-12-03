@@ -1,6 +1,6 @@
 pesos  = 50
 
-if pesos > 900:
+if pesos > 900: 
     print("Puede entrar en la tienda")
 elif pesos >100:
     print("Comprar un boleto")
