@@ -2,7 +2,7 @@ texto = "12345"
 texto2= "1"
 
 flotante = "34.23"
-
+ 
 print("1=",type(texto+texto2))
 print(texto+texto2)
 
