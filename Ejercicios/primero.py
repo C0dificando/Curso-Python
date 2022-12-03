@@ -1,5 +1,5 @@
 #print("Hola mundo")
-
+ 
 print("Hoy es",50,"otro","seguindo",50, end=" ")
 print("Hoy es",50,"otro","seguindo",50)
 
