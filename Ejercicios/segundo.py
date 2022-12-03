@@ -1,6 +1,6 @@
 from unicodedata import decimal
 from xmlrpc.client import boolean
-
+ 
 
 cadena = "HOla mundo"
 numero = 78
