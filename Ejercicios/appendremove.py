@@ -1,6 +1,6 @@
 cine = []
 
-for x in range(5):
+for x in range(5): 
     cine.append(input("Agregar pelicula: "+str(x+1)))
 
 print(cine)
