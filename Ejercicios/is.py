@@ -3,6 +3,7 @@ if(cadena.isdigit()):
     print("La cadena ",cadena," contiene unicamente digitos")
 else:
     print("La cadena ",cadena," no contiene digitos")
+    
 
 #Escriba un programa que solicite al usuario que ingrese una cadena de caracteres y 
 # determine si la cadena ingresada contiene al menos una letra y al menos un número. 
